@@ -3,8 +3,8 @@
 
 <h3>Employee Having Salary Range between 18000 and 20000</h3>
 
-![image](https://github.com/user-attachments/assets/59bae8e3-588d-4c44-8233-b7693ed22d15)
+![image](https://github.com/user-attachments/assets/fd177a3e-a094-492b-8592-ae5b06213087)
 
 <h3>Employee Info</h3>
 
-![image](https://github.com/user-attachments/assets/015a0dbd-4eb3-45be-9e51-cde53c4db1d5)
+![image](https://github.com/user-attachments/assets/e4982a0f-d029-4758-a157-73639f30c43d)
