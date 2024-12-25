@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: yellow;
+    color: red;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
+.navbar a{
+    color: blue;
+}
+
+.navbar li a{
+    color: red;
+}
+
+img{
+    height: 250px;
+    width: 300px;
+    margin: 25px;
+    border: 5px solid red;
+}
+
+.logo{
+    height: 25px;
+    width:30px;
+    margin: 0;
+    border: none;
+    text-align:left;
+}
+
+a{
+    text-decoration: none !important;
+}

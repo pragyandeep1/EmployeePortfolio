@@ -1,0 +1,17 @@
+{% extends 'testapp1/base.html' %}
+{% block body_block %}
+<h1>Emplyee Information DashBoard</h1>
+  <table border="2">
+    <thead>
+      <th>Employee Name</th>
+      <th>Employee Salary</th>
+    </thead>
+    {% for emp in emp_list %}
+    <tr>
+      {% for k,v in emp.items %}
+        <td>{{v}}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}
